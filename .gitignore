@@ -14,3 +14,13 @@ target/test-classes/data.csv
 target/test-classes/com/everis/calculadorasimples/CalculadoraTest.class
 
 /target/
+
+/.idea/
+
+/.vscode/
+
+/.settings/
+
+/.classpath/
+
+/.project/
