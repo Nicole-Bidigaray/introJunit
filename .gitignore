@@ -23,4 +23,8 @@ target/test-classes/com/everis/calculadorasimples/CalculadoraTest.class
 
 /.classpath/
 
+.classpath
+
+.project
+
 /.project/
